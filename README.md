@@ -1,5 +1,4 @@
 # NotToday: Self-Defense Against Suicidal Thoughts
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
 
 NotToday is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to solve the LA region’s biggest challenges. NotToday helps users with chronic suicidal ideation withstand periods of suffering from the symptom without acting on it. The mobile application's main features include the ability to create an "anti-suicide note" from user content and to recieve daily reminders to view the note if the user is experiencing suicidal ideation.
 
