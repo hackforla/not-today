@@ -5,7 +5,7 @@ NotToday is a project of Hack for LA. Hack for LA is a brigade of a Code for Ame
 
 ### Project context
 
-[Project Context](https://github.com/hackforla/not-today/blob/master/context)
+[Project Context](https://github.com/hackforla/not-today/blob/master/context.md)
 
 ### Technology used
 
