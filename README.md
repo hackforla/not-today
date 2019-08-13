@@ -12,8 +12,6 @@ NotToday is a project of Hack for LA. Hack for LA is a brigade of a Code for Ame
 
 # How to contribute
 
-Explain the different ways people can contribute. For example:
-
 - TBD
 
 
