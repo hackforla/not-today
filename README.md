@@ -51,6 +51,6 @@ TBD
 
 ### Licensing
 
-TBD
+TBD (open source)
 
 *this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
