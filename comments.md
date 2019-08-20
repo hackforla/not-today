@@ -1,5 +1,10 @@
 # Comments on Wireframe 8/2019
 
+## Maile Malim
+
+Offer text and email options
+Add links to how to find a psychotherapist
+
 ## Kathleen Gibson
 *certified in mental health first aid and psychological first aid, have experience in the social services/mental health crisis, and also a suicide loss survivor*
 
