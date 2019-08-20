@@ -18,7 +18,7 @@ I would also have a "Text" button and/or button to call hotline on every page of
 I recommend including something on the normalcy of it, with an empathetic tone. And something like "thoughts of suicide are common and do not have to be acted on."
 *statistics are in context.md*
 
-*3rd intro text screen*
+**3rd intro text screen**
 I would reword this so that the word ""normal" isn't used. 
-*yes, that was a 1st draft placeholder*
+*for sure, that was a 1st draft placeholder*
 
