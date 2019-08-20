@@ -1,6 +1,6 @@
-# Here be academic papers about the underlying issues.
+# In this folder be the following academic papers about the underlying issues.
 
-## [Chronic suicidal thoughts and implicit memory: hypothesis and practical implications](lit-review/chronic suicidal ideation and implicit memory paper.pdf)
+## Chronic suicidal thoughts and implicit memory: hypothesis and practical implications
 ### [Dr. Nicholas Bendit](https://www.researchgate.net/profile/Nicholas_Bendit), Centre for Psychotherapy, James Fletcher Hospital, Newcastle, NSW, Australia 
 **Objective:** This paper outlines a hypothesis linking the development of implicit memory in infants and chronic suicidal thoughts in adults. In order to do this, the developmental trajectory of memory is reviewed, as well as how attachment experiences are encoded in implicit memory. The cognitive/ emotional capacity of infants is then compared to the subjective experience of the chronically suicidal patient. This is used to develop the hypothesis that chronic suicidal thoughts are located in implicit memory, encoded very early in life. This idea is then used to explain why common responses by mental health workers to the chronically suicidal patient may inadvertently reinforce suicidal thoughts. Finally, understanding these concepts helps us to understand how psychotherapy can change chronic suicidal ideation.
 
@@ -8,7 +8,7 @@
 
 ### [Presentation Slide Deck of the above](lit-review/suicidal-memory-systems.pdf)
 
-## [Evaluation and Treatment of Patients with Suicidal Ideation](lit-review/Evaluation and Treatment of Patients with Suicidal Ideation - American Family Physician.pdf)
+## Evaluation and Treatment of Patients with Suicidal Ideation
 ### MICHAEL F. GLIATTO, M.D., Veterans Affairs Medical Center and University of Pennsylvania School of Medicine, Philadelphia; ANIL K. RAI, M.D., University of Pennsylvania School of Medicine, Philadelphia; 
 Am Fam Physician. 1999 Mar 15;59(6):1500-1506.
 
