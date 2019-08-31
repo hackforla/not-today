@@ -24,3 +24,12 @@ Suicidal ideation is more common than completed suicide. Most persons who commit
 ### Gary A. Taylor, Ph.D.
 
 This rather dramatically named self-published excerpt from a larger book contains the best description I've read of the kind of dead feeling that characterizes a dissociated sucidial mental state, and presents the underlying biology well. Lots of interesting stuff about the role of the vagus nerve. Interested nerds may want to check out [polyvagal theory](https://en.wikipedia.org/wiki/Polyvagal_theory).
+
+
+## Standing in the Spaces: The Multiplicity of Self and the Psychoanalytic Relationship
+[file location]
+### Philip Bromberg, Ph.D.
+Contemporary Psychoanalysis, 1996
+
+Abstract
+Contends that psychoanalysis is at its core a highly specialized communicative field, and what constitutes a psychoanalytically meaningful moment is constantly in motion with regard to one's experience of both reality and temporality. The shifting quality of time and meaning reflects the enactment of self-states in both patient and analyst that define the multiplicity of relationships that go on between the patient's selves and the analyst's selves, only some of which are being focused on at any given moment. Human personality possesses the extraordinary capacity to negotiate continuity and change simultaneously, and will do so under the right relational conditions. This attribute is what analysts rely on to make clinical psychoanalysis, or any form of psychodynamic psychotherapy, possible. Psychoanalysis and the decentered self, normal multiplicity of self, and dissociation as an interpersonal process, are some of the topics covered. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
