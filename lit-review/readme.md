@@ -13,7 +13,7 @@
 
 ## Evaluation and Treatment of Patients with Suicidal Ideation
 [file location](https://github.com/hackforla/not-today/blob/master/lit-review/Evaluation%20and%20Treatment%20of%20Patients%20with%20Suicidal%20Ideation%20-%20American%20Family%20Physician.pdf)
-### MICHAEL F. GLIATTO, M.D., Veterans Affairs Medical Center and University of Pennsylvania School of Medicine, Philadelphia; ANIL K. RAI, M.D., University of Pennsylvania School of Medicine, Philadelphia; 
+### Michael F. Gliatto, M.D., Veterans Affairs Medical Center and University of Pennsylvania School of Medicine, Philadelphia; ANIL K. RAI, M.D., University of Pennsylvania School of Medicine, Philadelphia; 
 American Family Physician. 1999 Mar 15;59(6):1500-1506.
 
 Suicidal ideation is more common than completed suicide. Most persons who commit suicide have a psychiatric disorder at the time of death. Because many patients with psychiatric disorders are seen by family physicians and other primary care practitioners rather than by psychiatrists, it is important that these practitioners recognize the signs and symptoms of the psychiatric disorders (particularly alcohol abuse and major depression) that are associated with suicide. Although most patients with suicidal ideation do not ultimately commit suicide, the extent of suicidal ideation must be determined, including the presence of a suicide plan and the patient's means to commit suicide.
