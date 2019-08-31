@@ -29,7 +29,7 @@ This rather dramatically named self-published excerpt from a larger book contain
 
 
 ## Standing in the Spaces: The Multiplicity of Self and the Psychoanalytic Relationship
-[file location](https://github.com/hackforla/not-today/blob/master/lit-review/E1f_5%20Bromberg_P_Standing_in_the_Spaces.pdf) 
+[file location](https://github.com/hackforla/not-today/blob/master/lit-review/E1f_5%20Bromberg_P_Standing_in_the_Spaces.pdf)  
 Philip Bromberg, Ph.D., Contemporary Psychoanalysis, 1996
 
 **Abstract:** Contends that psychoanalysis is at its core a highly specialized communicative field, and what constitutes a psychoanalytically meaningful moment is constantly in motion with regard to one's experience of both reality and temporality. The shifting quality of time and meaning reflects the enactment of self-states in both patient and analyst that define the multiplicity of relationships that go on between the patient's selves and the analyst's selves, only some of which are being focused on at any given moment. Human personality possesses the extraordinary capacity to negotiate continuity and change simultaneously, and will do so under the right relational conditions. This attribute is what analysts rely on to make clinical psychoanalysis, or any form of psychodynamic psychotherapy, possible. Psychoanalysis and the decentered self, normal multiplicity of self, and dissociation as an interpersonal process, are some of the topics covered. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
