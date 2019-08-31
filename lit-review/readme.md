@@ -27,7 +27,7 @@ This rather dramatically named self-published excerpt from a larger book contain
 
 
 ## Standing in the Spaces: The Multiplicity of Self and the Psychoanalytic Relationship
-[file location]
+[file location](https://github.com/hackforla/not-today/blob/master/lit-review/E1f_5%20Bromberg_P_Standing_in_the_Spaces.pdf)
 ### Philip Bromberg, Ph.D.
 Contemporary Psychoanalysis, 1996
 
