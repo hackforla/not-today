@@ -43,7 +43,7 @@ This rather dramatically named self-published excerpt from a larger book contain
 
 ---
 
-# [Understanding the Person with Chronic Suicidal Thoughts](https://github.com/hackforla/not-today/blob/master/lit-review/Understanding%20the%20person%20with%20chronic%20suicidal%20thoughts.pdf)<br>
+### [Understanding the Person with Chronic Suicidal Thoughts](https://github.com/hackforla/not-today/blob/master/lit-review/Understanding%20the%20person%20with%20chronic%20suicidal%20thoughts.pdf)<br>
 <sub>Stacy Freedenthal, [Insurance Thought Leadership](http://insurancethoughtleadership.com/understanding-person-with-suicidal-thoughts/). Based on the work of [Joel Paris, M.D.](https://www.mcgill.ca/psychiatry/joel-paris)</sub>
 
 >Some people who think of suicide do not want to stop. They say it comforts them to know they can die by suicide if ever the pain of life gets to be too much for them. This dynamic led some experts to refer to “suicide fantasy as life-sustaining recourse.” 
