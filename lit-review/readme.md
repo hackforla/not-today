@@ -2,7 +2,7 @@
 
 ## Index/Descriptions
 
-`**This one is required reading to really understand the phenonmenon:**`<br>
+### `**This one is required reading to really understand the phenonmenon:**`<br>
 ### [Chronic suicidal thoughts and implicit memory: hypothesis and practical implications](https://github.com/hackforla/not-today/blob/master/lit-review/chronic%20suicidal%20ideation%20and%20implicit%20memory%20paper.pdf)<br>
 <sup>[Dr. Nicholas Bendit](https://www.researchgate.net/profile/Nicholas_Bendit), Centre for Psychotherapy, James Fletcher Hospital, Newcastle, NSW, Australia</sup>
 
