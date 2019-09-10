@@ -34,7 +34,7 @@ This rather dramatically named self-published excerpt from a larger book contain
  
 Philip Bromberg, Ph.D., Contemporary Psychoanalysis, 1996
 
-**Abstract:** Psychoanalysis and the decentered self, normal multiplicity of self, and dissociation as an interpersonal process, are some of the topics covered. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
+>**Abstract:** Psychoanalysis and the decentered self, normal multiplicity of self, and dissociation as an interpersonal process, are some of the topics covered. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
 
 
 ### [33 Habits of People Who Deal With Chronic Suicidal Thoughts](https://github.com/hackforla/not-today/blob/master/lit-review/Habits%20of%20People%20Who%20Deal%20With%20Chronic%20Suicidal%20Thoughts%20_%20The%20Mighty.pdf)
