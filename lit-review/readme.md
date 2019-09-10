@@ -14,6 +14,7 @@
 
 [Presentation Slide Deck of the above](https://github.com/hackforla/not-today/blob/master/lit-review/suicidal-memory-systems.pdf)
 
+---
 
 ### [Evaluation and Treatment of Patients with Suicidal Ideation](https://github.com/hackforla/not-today/blob/master/lit-review/Evaluation%20and%20Treatment%20of%20Patients%20with%20Suicidal%20Ideation%20-%20American%20Family%20Physician.pdf)
 
@@ -22,6 +23,7 @@ American Family Physician. 1999 Mar 15;59(6):1500-1506.
 
 >Suicidal ideation is more common than completed suicide. Most persons who commit suicide have a psychiatric disorder at the time of death. Because many patients with psychiatric disorders are seen by family physicians and other primary care practitioners rather than by psychiatrists, it is important that these practitioners recognize the signs and symptoms of the psychiatric disorders (particularly alcohol abuse and major depression) that are associated with suicide. Although most patients with suicidal ideation do not ultimately commit suicide, the extent of suicidal ideation must be determined, including the presence of a suicide plan and the patient's means to commit suicide.
 
+---
 
 ### [UNDER SEIGE ON THE EDGE OF THE BIG EMPTY: THE PHENOMENOLOGY OF SEVERE MENTAL ILLNESS](https://github.com/hackforla/not-today/blob/master/lit-review/Emptiness:Deadness.pdf)
 
@@ -29,6 +31,7 @@ Gary A. Taylor, Ph.D.
 
 This rather dramatically named self-published excerpt from a larger book contains the best description I've read of the kind of dead feeling that characterizes a dissociated sucidial mental state, and presents the underlying biology well. Lots of interesting stuff about the role of the vagus nerve. Interested nerds may want to check out [polyvagal theory](https://en.wikipedia.org/wiki/Polyvagal_theory).
 
+---
 
 ### [Standing in the Spaces: The Multiplicity of Self and the Psychoanalytic Relationship](https://github.com/hackforla/not-today/blob/master/lit-review/E1f_5%20Bromberg_P_Standing_in_the_Spaces.pdf)
  
@@ -36,6 +39,7 @@ Philip Bromberg, Ph.D., Contemporary Psychoanalysis, 1996
 
 >**Abstract:** Psychoanalysis and the decentered self, normal multiplicity of self, and dissociation as an interpersonal process, are some of the topics covered. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
 
+---
 
 ### [33 Habits of People Who Deal With Chronic Suicidal Thoughts](https://github.com/hackforla/not-today/blob/master/lit-review/Habits%20of%20People%20Who%20Deal%20With%20Chronic%20Suicidal%20Thoughts%20_%20The%20Mighty.pdf)
 
