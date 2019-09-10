@@ -40,3 +40,12 @@ This rather dramatically named self-published excerpt from a larger book contain
 <sup>User Community, [The Mighty](https://themighty.com/) (Medium-like blogging platform for people with mental health issues)</sup>
 
 >When you live with suicidal thoughts, the monologue inside your head might sound like this: “I just want the pain to stop.” “People will be better off without you.” “You shouldn’t exist anymore.” When you’re living with chronic suicidal thoughts, that monologue rarely stops. This persistence can make it exhausting and painful to get through one day, one hour or even just one moment. And in those moments, sometimes we need little reminders or coping strategies to help us keep going. That is why we asked people in our Mighty mental health community who live with suicidal thoughts to share a “habit” they’ve developed that’s helped them keep living. While it can be hard to make those thoughts completely disappear, learning to manage them is so important — because you’re important, and in case no one’s told you this today: we’re so glad you’re here. Here is what our community told us.
+
+---
+
+# [Understanding the Person with Chronic Suicidal Thoughts](https://github.com/hackforla/not-today/blob/master/lit-review/Understanding%20the%20person%20with%20chronic%20suicidal%20thoughts.pdf)<br>
+<sub>Stacy Freedenthal, [Insurance Thought Leadership](http://insurancethoughtleadership.com/understanding-person-with-suicidal-thoughts/). Based on the work of [Joel Paris, M.D.](https://www.mcgill.ca/psychiatry/joel-paris)</sub>
+
+>Some people who think of suicide do not want to stop. They say it comforts them to know they can die by suicide if ever the pain of life gets to be too much for them. This dynamic led some experts to refer to “suicide fantasy as life-sustaining recourse.” 
+
+
