@@ -9,6 +9,10 @@ I might start to tune out the letter if I read the same thing every day (or igno
 
 App helps you gather "evidence" of your will to live as you go along, by the notifications providing you the option to write in a repository you can later pull from for the "note" itself if desired - and if not, is readable as a mini-journal.
 
+
+
 ## For Future Roadmap
 
 Ability to learn from user which content helps them more
+
+Voice recordings
