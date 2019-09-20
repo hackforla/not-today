@@ -48,4 +48,10 @@ This rather dramatically named self-published excerpt from a larger book contain
 
 >Some people who think of suicide do not want to stop. They say it comforts them to know they can die by suicide if ever the pain of life gets to be too much for them. This dynamic led some experts to refer to “suicide fantasy as life-sustaining recourse.” 
 
+---
+
+### [The Three-Step Theory: A New Theory of Suicide Rooted in the "Ideation-to-Action" Framework](https://github.com/hackforla/not-today/blob/master/lit-review/The%20Three-Step%20Theory.pdf)
+<sub>E. [David Klonsky](https://psych.ubc.ca/profile/david-klonsky/) and Alexis M. May, Department of Psychology, University of British Columbia
+
+>Klonsky and May (2014) argued that an “ideation-to-action” framework should guide suicide theory, research, and prevention. From this perspective, (a) the de- velopment of suicide ideation and (b) the progression from ideation to suicide attempts are distinct processes with distinct explanations. The present article in- troduces a specific theory of suicide rooted in the ideation-to-action framework: the Three-Step Theory (3ST).
 
