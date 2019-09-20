@@ -1,3 +1,10 @@
+# "Anecdata"
+
+[reddit post](https://www.reddit.com/r/TalkTherapy/comments/d60y9l/what_do_you_think_of_a_nosuicide_contract_with/f0q4mom/)
+
+I think safety plans have a purpose and use. I have an app on my phone that I've never used besides to make the initial plan, but it's good for me to have truly thought about why that's not the path I want to take with my life at this point because of _____ reason. My therapist never formally made one with me, although he did mention it occasionally. Signing a physical contract is not cool though, I'd bolt.
+
+
 # Comments on Wireframe 8/2019
 
 ## Maile Malim
