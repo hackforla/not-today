@@ -4,6 +4,7 @@ NotToday is a project of Hack for LA. Hack for LA is a brigade of a Code for Ame
 
 ### Project context
 
+**Please read [FAQ](https://github.com/hackforla/not-today/blob/master/FAQ-ReadMeToo.md) it is neccessary to understand goals and tone, which are counterintuitive to how depression is usually thought of, but, evidence-based **
 [Project Context](https://docs.google.com/presentation/d/1NsQFWU_RgGZf16rHNdBAemUGhpxiAJ_wSh1a5E28RTc/edit#slide=id.g60faf49108_0_139)
 
 [Scientific Context](https://github.com/hackforla/not-today/tree/master/lit-review)
