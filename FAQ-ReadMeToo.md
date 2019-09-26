@@ -1,4 +1,4 @@
-# FAQ
+# FAQ 
 
 ## Q: The language in the app sounds pretty negative. Shouldn't things be phrased more positively in order to help people feel better?
 
