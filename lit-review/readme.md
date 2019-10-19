@@ -55,3 +55,7 @@ This rather dramatically named self-published excerpt from a larger book contain
 
 >Klonsky and May (2014) argued that an “ideation-to-action” framework should guide suicide theory, research, and prevention. From this perspective, (a) the de- velopment of suicide ideation and (b) the progression from ideation to suicide attempts are distinct processes with distinct explanations. The present article in- troduces a specific theory of suicide rooted in the ideation-to-action framework: the Three-Step Theory (3ST).
 
+---
+
+### [Suicide Risk Stratification Table](https://github.com/hackforla/not-today/blob/master/lit-review/RM_MIRECC_SuicideRisk_Table.pdf)
+
