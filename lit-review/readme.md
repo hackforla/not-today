@@ -4,7 +4,7 @@
 
 ### `This one is required reading to really understand the phenonmenon:`<br>
 ### [Chronic suicidal thoughts and implicit memory: hypothesis and practical implications](https://github.com/hackforla/not-today/blob/master/lit-review/chronic%20suicidal%20ideation%20and%20implicit%20memory%20paper.pdf)<br>
-<sup>[Dr. Nicholas Bendit](https://www.researchgate.net/profile/Nicholas_Bendit),`NotToday clinical advisor`, Centre for Psychotherapy, James Fletcher Hospital, Newcastle, NSW, Australia</sup> 
+<sup>[Dr. Nicholas Bendit](https://www.researchgate.net/profile/Nicholas_Bendit),`NotToday academic advisor`, Centre for Psychotherapy, James Fletcher Hospital, Newcastle, NSW, Australia</sup> 
 
 >**Objective:** This paper outlines a hypothesis linking the development of implicit memory in infants and chronic suicidal thoughts in adults. In order to do this, the developmental trajectory of memory is reviewed, as well as how attachment experiences are encoded in implicit memory. The cognitive/ emotional capacity of infants is then compared to the subjective experience of the chronically suicidal patient. This is used to develop the hypothesis that chronic suicidal thoughts are located in implicit memory, encoded very early in life. This idea is then used to explain why common responses by mental health workers to the chronically suicidal patient may inadvertently reinforce suicidal thoughts. Finally, understanding these concepts helps us to understand how psychotherapy can change chronic suicidal ideation.
 
@@ -51,7 +51,7 @@ This rather dramatically named self-published excerpt from a larger book contain
 ---
 
 ### [The Three-Step Theory: A New Theory of Suicide Rooted in the "Ideation-to-Action" Framework](https://github.com/hackforla/not-today/blob/master/lit-review/The%20Three-Step%20Theory.pdf)
-<sub>[E. David Klonsky](https://psych.ubc.ca/profile/david-klonsky/), `NotToday clinical advisor`, and Alexis M. May, Department of Psychology, University of British Columbia
+<sub>[E. David Klonsky](https://psych.ubc.ca/profile/david-klonsky/), `NotToday adcademic advisor`, and Alexis M. May, Department of Psychology, University of British Columbia
 
 >Klonsky and May (2014) argued that an “ideation-to-action” framework should guide suicide theory, research, and prevention. From this perspective, (a) the development of suicide ideation and (b) the progression from ideation to suicide attempts are distinct processes with distinct explanations. The present article introduces a specific theory of suicide rooted in the ideation-to-action framework: the Three-Step Theory (3ST).
 
