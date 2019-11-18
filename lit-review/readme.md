@@ -59,3 +59,9 @@ This rather dramatically named self-published excerpt from a larger book contain
 
 ### [Suicide Risk Stratification Table](https://github.com/hackforla/not-today/blob/master/lit-review/RM_MIRECC_SuicideRisk_Table.pdf)
 
+---
+
+### [Cross-National Prevalence and Risk Factors for Suicidal Ideation, Plans, and Attempts](https://github.com/hackforla/not-today/blob/master/lit-review/Cross%20National%20SI.pdf)
+<sub>Matthew K. Nock, PhD, Guilherme Borges, PhD, et al
+  
+The cross-national lifetime prevalence (standard error) of suicidal ideation, plans, and attempts is 9.2%, 3.1%, and 2.7%. Across all countries, 60% of transitions from ideation to plan and attempt occur within the first year after ideation onset. Consistent cross-national risk factors included being: female, younger, less educated, unmarried, and having a mental disorder. Interestingly, the strongest diagnostic risk factors were mood disorders in developed countries but impulse-control disorders in developing countries....Among suicide ideators, the conditional probability of ever making a suicide plan is 33.6% and of ever making a suicide attempt is 29.0%. The probability of attempt among ideators with a plan is 56.0% but only 15.4% among those without a plan.
