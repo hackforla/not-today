@@ -1,4 +1,4 @@
-# This folder is for background information about the underlying issues of chronic suicidal ideation.
+# This folder is for studies about chronic suicidal ideation.
 
 ## Index/Descriptions
 
