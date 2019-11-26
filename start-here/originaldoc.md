@@ -1,4 +1,4 @@
-![bb](https://github.com/mastodonmesa/nottoday/blob/master/bb.jpg)
+![](https://github.com/hackforla/not-today/blob/master/visual-assets/not-today.png?raw=true)
 
 [art by C.W. Moss](http://greyrainbow.com/butt-buddies-a-fairy-tale)
 
