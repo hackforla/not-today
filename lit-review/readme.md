@@ -68,7 +68,7 @@ The cross-national lifetime prevalence of suicidal ideation, plans, and attempts
 
 ---
 
-##Further reading: [Half in Love With Death: Managing the Chronically Suicidal Patient](https://www.amazon.com/Half-Love-Death-Managing-Chronically-ebook/dp/B075WRGG5P) (book)
+## Further reading: [Half in Love With Death: Managing the Chronically Suicidal Patient](https://www.amazon.com/Half-Love-Death-Managing-Chronically-ebook/dp/B075WRGG5P) (book)
 <sub>Joel Paris, MD
 
 Half in Love With Death presents a new way for therapists to manage chronically suicidal patients, an incredibly challenging task for clinicians and one where an insufficient amount of literature exists to guide professionals. Author Joel Paris suggests an approach that defies conventional wisdoms about whether suicide can be predicted or prevented. He asserts that managing chronically suicidal patients begins with tolerating suicidality, understanding the inner world of patients, avoiding repeated hospitalizations, and focusing on life situations that maintain suicidal ideas and behaviors.
