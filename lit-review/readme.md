@@ -65,3 +65,10 @@ This rather dramatically named self-published excerpt from a larger book contain
 <sub>Matthew K. Nock, PhD, Guilherme Borges, PhD, et al
   
 The cross-national lifetime prevalence of suicidal ideation, plans, and attempts is 9.2%, 3.1%, and 2.7%. Across all countries, 60% of transitions from ideation to plan and attempt occur within the first year after ideation onset. Consistent cross-national risk factors included being: female, younger, less educated, unmarried, and having a mental disorder. Interestingly, the strongest diagnostic risk factors were mood disorders in developed countries but impulse-control disorders in developing countries....Among suicide ideators, the conditional probability of ever making a suicide plan is 33.6% and of ever making a suicide attempt is 29.0%. The probability of attempt among ideators with a plan is 56.0% but only 15.4% among those without a plan.
+
+---
+
+##Further reading: [Half in Love With Death: Managing the Chronically Suicidal Patient](https://www.amazon.com/Half-Love-Death-Managing-Chronically-ebook/dp/B075WRGG5P) (book)
+<sub>Joel Paris, MD
+
+Half in Love With Death presents a new way for therapists to manage chronically suicidal patients, an incredibly challenging task for clinicians and one where an insufficient amount of literature exists to guide professionals. Author Joel Paris suggests an approach that defies conventional wisdoms about whether suicide can be predicted or prevented. He asserts that managing chronically suicidal patients begins with tolerating suicidality, understanding the inner world of patients, avoiding repeated hospitalizations, and focusing on life situations that maintain suicidal ideas and behaviors.
