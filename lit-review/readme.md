@@ -1,4 +1,4 @@
-# This folder is for literature related to the project.
+# This folder is for academic literature related to the project.
 
 ## Index/Descriptions - Chronic Suicidal Ideation
 
@@ -85,6 +85,4 @@ Half in Love With Death presents a new way for therapists to manage chronically 
 [Young People's Response to Six Smartphone Apps for Anxiety and Depression: Focus Group Study](https://github.com/hackforla/not-today/blob/master/lit-review/young%20peoples%20response%20to%20MH%20apps.pdf)
 <sub>Garrido, Cheers, et al.
   
-App developers need to consider using participant-design frameworks to ensure that smartphone apps are providing
-what young people want in a mental health app. Solutions to the need for personalization and increasing user engagement are
-also crucially needed.
+AOn the whole, this study demonstrates that mental health apps need to cater to the individuality of the users. Features to improve user experience and engagement include personalization by developing customizable content and user interfaces, as well as providing feedback and progress tracking for the individual, on an opt-in, opt-out basis. Overburdening users with a lot of reading and other content is not appealing to many young users, leading to a lack of engagement with many currently available apps. It is therefore crucial to develop concrete and action-oriented features with a fun and entertaining design to motivate millennials to learn about mental health.
