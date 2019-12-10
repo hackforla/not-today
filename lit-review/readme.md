@@ -1,6 +1,6 @@
-# This folder is for studies about chronic suicidal ideation.
+# This folder is for literature related to the project.
 
-## Index/Descriptions
+## Index/Descriptions - Chronic Suicidal Ideation
 
 ### `This one is required reading to really understand the phenonmenon:`<br>
 ### [Chronic suicidal thoughts and implicit memory: hypothesis and practical implications](https://github.com/hackforla/not-today/blob/master/lit-review/chronic%20suicidal%20ideation%20and%20implicit%20memory%20paper.pdf)<br>
@@ -80,3 +80,11 @@ Post traumatic stress disorder is often associated with an increase in suicidal 
 
 Half in Love With Death presents a new way for therapists to manage chronically suicidal patients, an incredibly challenging task for clinicians and one where an insufficient amount of literature exists to guide professionals. Author Joel Paris suggests an approach that defies conventional wisdoms about whether suicide can be predicted or prevented. He asserts that managing chronically suicidal patients begins with tolerating suicidality, understanding the inner world of patients, avoiding repeated hospitalizations, and focusing on life situations that maintain suicidal ideas and behaviors.
 
+## Index/Descriptions - Mental Health App Design
+
+[Young People's Response to Six Smartphone Apps for Anxiety and Depression: Focus Group Study](https://github.com/hackforla/not-today/blob/master/lit-review/young%20peoples%20response%20to%20MH%20apps.pdf)
+<sub>Garrido, Cheers, et al.
+  
+App developers need to consider using participant-design frameworks to ensure that smartphone apps are providing
+what young people want in a mental health app. Solutions to the need for personalization and increasing user engagement are
+also crucially needed.
