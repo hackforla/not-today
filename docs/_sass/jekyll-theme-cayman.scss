@@ -32,6 +32,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  background-color: $primary-blue;
 }
 
 #skip-to-content {
@@ -110,6 +111,11 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 
   @include large {
     padding: 5rem 6rem;
@@ -160,6 +166,8 @@ a {
 }
 
 .main-content {
+  background-color: white;
+  margin: 0 4rem;
   word-wrap: break-word;
 
   :first-child {
