@@ -7,4 +7,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+title: Not Today
+description: Not Today app
+google_analytics:
 theme: jekyll-theme-cayman
