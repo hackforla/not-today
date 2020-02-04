@@ -75,6 +75,8 @@ Post traumatic stress disorder is often associated with an increase in suicidal 
 
 ---
 
+###[Centers for Disease Control Sucide Datasheet](https://github.com/hackforla/not-today/blob/master/lit-review/suicide-datasheet-a.pdf)
+
 #### Further reading: [Half in Love With Death: Managing the Chronically Suicidal Patient](https://www.amazon.com/Half-Love-Death-Managing-Chronically-ebook/dp/B075WRGG5P) (book)
 <sub>Joel Paris, MD
 
