@@ -1,4 +1,4 @@
-*Not Today: Self-Defense Against Suicidal Thoughts* is an app in development by volunteers with [Hack for LA](http://hackforla.org), a brigade of [Code for America](http://www.codeforamerica.org) It is a tool intended to help people wait out periods of suicidal thinking without acting on their thoughts. 
+*Not Today: Self-Defense Against Suicidal Thoughts* is an app in development by volunteers with [Hack for LA](http://hackforla.org), a brigade of [Code for America](http://www.codeforamerica.org). It is a tool intended to help people wait out periods of suicidal thinking without acting on those thoughts. 
 
 Many people are not aware that suicidality falls along a continuum ranging from suicide attempts, all the way to passive thoughts such as “I wouldn’t mind if I didn’t wake up in the morning.” It is common to have some form of suicidal thoughts at some point in life. 
 
