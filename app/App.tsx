@@ -1,31 +1,20 @@
-import * as React from 'react';
+import React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
-import {createDrawerNavigator} from '@react-navigation/drawer';
-import {Component} from "react";
-import {HomeScreen, HomeScreenNavigator} from "./HomeScreen";
-import {EditContentScreen, EditContentScreenNavigator} from "./EditContentScreen";
-import {AboutScreen, AboutScreenNavigator} from "./AboutScreen";
-import {SettingsScreen, SettingsScreenNavigator} from "./SettingsScreen";
+import {createStackNavigator} from '@react-navigation/stack';
+import Home from "./screens/Home";
+import About from "./screens/About";
 
-const Drawer = createDrawerNavigator();
+const RootStack = createStackNavigator<RootStackParamList>();
 
-class MainDrawerNavigation extends Component {
-    render() {
-        return (
-            <Drawer.Navigator>
-                <Drawer.Screen name="Home" component={HomeScreenNavigator}/>
-                <Drawer.Screen name="Edit Content" component={EditContentScreenNavigator}/>
-                <Drawer.Screen name="Settings" component={SettingsScreenNavigator}/>
-                <Drawer.Screen name="About" component={AboutScreenNavigator}/>
-            </Drawer.Navigator>
-        );
-    }
-}
-
-export default function App() {
+const App = () => {
     return (
         <NavigationContainer>
-            <MainDrawerNavigation/>
+            <RootStack.Navigator initialRouteName="Home">
+                <RootStack.Screen name="Home" component={Home}/>
+                <RootStack.Screen name="About" component={About}/>
+            </RootStack.Navigator>
         </NavigationContainer>
     );
 }
+
+export default App;

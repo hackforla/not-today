@@ -1,4 +1,5 @@
 {
+  "author": "hack-for-la",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
